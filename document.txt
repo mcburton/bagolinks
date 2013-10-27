@@ -58,6 +58,8 @@ I dumped [a bunch of links into a subreddit on topic modeling](http://www.reddit
 
 Adding a link to [my blog post on topic modeling, *The Joy of Topic Modeling*](http://mcburton.net/blog/joy-of-tm/) 
 
+[Alan Liu just tweeted](https://twitter.com/alanyliu/status/394514893371498496) a link about [Sub-corpus topic modeling](http://www.sciencedirect.com/science/article/pii/S0304422X13000648)
+
 ## Scholarly communication
 
 Check out [Carol Palmer's CV](http://people.lis.illinois.edu/~clpalmer/pubspresB.html) She has done some interesting work on scientific scholarly communication.

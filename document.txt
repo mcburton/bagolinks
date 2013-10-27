@@ -37,3 +37,13 @@ when dreaming up [pomo.io](http://pomo.io) i was googling around for information
 
 
 
+## Mapping in Python
+[So You'd Like To Make a Map Using Python](http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html). SOme interesitng bits on making a Choropleth and other links to python mapping libraries. interesting alternative to using [d3js.org](http://d3js.org/).
+
+
+
+## DH Blog Topic Model Topography project
+[**Kriging** is a method to build an approximation of a function from a set of evaluations of the function at a finite set of points.](http://en.wikipedia.org/wiki/Kriging) I think I can use this technique to build a continuous topography of from the Digital Humanities blogs topic points.
+
+[dfr-browser is a tool for visualizing and interacting with MALLET topic models](http://agoldst.github.io/dfr-browser/) built by [Andrew Goldstone](http://andrewgoldstone.com/) who collaborated with [Ted Underwood](http://tedunderwood.com) on the PMLA topic modeling thing.
+

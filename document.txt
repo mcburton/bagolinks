@@ -15,9 +15,8 @@ some links Mathias put in the thread comments
 I was dorking around with derrida.js in the chome developer console when I was building [pomo.io](http://pomo.io) and I notice Chrome has a menu item to "save" changes to javascript (and HTML/CSS I presume). While it (obviously) doesn't appear you can save back to remote locations (without some server shit in place), you can save local files. I'll have to play with this more. [this blog post "Auto-saving CSS And JavaScript Changes Locally From The Chrome Developer Tools" has a video and more information.](http://addyosmani.com/blog/autosave-changes-chrome-dev-tools/)
 
 
-
-
-
+## post-modern programming
+when dreaming up [pomo.io](http://pomo.io) i was googling around for information about the post-modern web and post-modern programming. i found [this link with some thoughts/notes on what post modern programming should be.](http://martinfowler.com/bliki/PostModernProgramming.html)
 
 
 

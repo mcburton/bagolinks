@@ -101,6 +101,12 @@ a pile of links related to GIT
 
 [Git concepts simplified.](http://gitolite.com/gcs/index.html) This post is similar to the class post I really liked, [git for computer scientists](http://eagain.net/articles/git-for-computer-scientists/), but it is intended for a broader audience.
 
+## #Indieweb
+I am facinated by the Indieweb stuff and need to start following it more seriously.
 
+[I think this is the article that introduced me to the IndieWebThis is the ar](http://www.wired.co.uk/news/archive/2013-08/15/indie-web)..no that is wrong, [this-"the #indieweb as a minimum viable web ecosystem" was the article that introduced #indieweb to me](http://werd.io/entry/51dca7e2bed7de945debf707/the-indieweb-as-a-minimum-viable-social-web-ecosystem)
+
+[Indiewebcamp wiki seems to be the central place where it all happens. ](http://indiewebcamp.com/)
+[What's open web and why is it important](http://codinginparadise.org/weblog/2008/04/whats-open-web-and-why-is-it-important.html) I found this on [Max Ogden's homepage](http://maxogden.com/)
 
 

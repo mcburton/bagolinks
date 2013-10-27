@@ -63,3 +63,12 @@ Adding a link to [my blog post on topic modeling, *The Joy of Topic Modeling*](h
 Check out [Carol Palmer's CV](http://people.lis.illinois.edu/~clpalmer/pubspresB.html) She has done some interesting work on scientific scholarly communication.
 
 I need to look at the [CV of Ying Ding at Indiana](http://info.slis.indiana.edu/~dingying/publication.html). She has done a bunch of work using topic models and scholary communication (in science).
+
+
+## Design
+
+[Butterick's Practical Typography is a "web book" and crash course on typography for the web or in general.](http://practicaltypography.com/)
+
+[Shape of Design Book is a nice little book on design. I bought the book, but should probably have a link to it here.](http://www.shapeofdesignbook.com/)
+
+

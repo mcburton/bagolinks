@@ -93,7 +93,7 @@ a pile of links loosely related to digital writing, the web, and whatever else I
 - [Markdown editor for scientific writing. -- Not sure if this is still being actively developed. Hosted locally or in cloud.](https://github.com/yoavram/markx)
 - [Medium is one of these, but not like the others. I'm not sure why it is different, it is a tool, but also a lot of content.](http://medium.com)
 - [Quip is a cross-channel (desktop, tablet, phone) writing app. I didn't like it very much.](https://quip.com/)
-- 
+- My favorite writing app at the moment is [Editorial for the iPad](http://omz-software.com/editorial/). It is a writing platform backed with python. I love the idea. I need to figure out how to integrate it with other writing platforms. I like using git as the underlying sharing protocol.
 
 
 ## GIT

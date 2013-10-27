@@ -56,7 +56,7 @@ I need to look at the [CV of Ying Ding at Indiana](http://info.slis.indiana.edu/
 
 I dumped [a bunch of links into a subreddit on topic modeling](http://www.reddit.com/r/topicmodeling/) should extract those to here.
 
-
+Adding a link to [my blog post on topic modeling, *The Joy of Topic Modeling*](http://mcburton.net/blog/joy-of-tm/) 
 
 ## Scholarly communication
 

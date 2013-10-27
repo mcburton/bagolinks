@@ -47,3 +47,19 @@ when dreaming up [pomo.io](http://pomo.io) i was googling around for information
 
 [dfr-browser is a tool for visualizing and interacting with MALLET topic models](http://agoldst.github.io/dfr-browser/) built by [Andrew Goldstone](http://andrewgoldstone.com/) who collaborated with [Ted Underwood](http://tedunderwood.com) on the PMLA topic modeling thing.
 
+
+## Topic Modeling
+
+[BEAGLE model source code](http://www.indiana.edu/~clcl/BEAGLE/) is the source code link to a text model, not sure if it technically a topic model, from Indiana. I haven't looked into this much yet.
+
+I need to look at the [CV of Ying Ding at Indiana](http://info.slis.indiana.edu/~dingying/publication.html). She has done a bunch of work using topic models and scholary communication (in science).
+
+I dumped [a bunch of links into a subreddit on topic modeling](http://www.reddit.com/r/topicmodeling/) should extract those to here.
+
+
+
+## Scholarly communication
+
+Check out [Carol Palmer's CV](http://people.lis.illinois.edu/~clpalmer/pubspresB.html) She has done some interesting work on scientific scholarly communication.
+
+I need to look at the [CV of Ying Ding at Indiana](http://info.slis.indiana.edu/~dingying/publication.html). She has done a bunch of work using topic models and scholary communication (in science).

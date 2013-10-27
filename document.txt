@@ -83,12 +83,24 @@ a pile of links loosely related to digital writing, the web, and whatever else I
 
 [Digital Dissertation deliverables and how to complete them! is a post by Amanda Visconti](http://www.literaturegeek.com/timeandscope/) 
 
+### Web Writing Tools I (may or may not) have tried
+- [Penflip a web-based, git backed writing tool/site. HOsted in the cloud with git as API protocol.](http://www.penflip.com)
+- [Draft like penflip but more features, not backed by git. HOsted in the cloud as service.](https://draftin.com/)
+- [Prose.io is a writers frontend to github. Hosted front-end, backed in github.](http://prose.io/)
+- [Ghost is a neo-wordpress blogging platform. Self-hosted or will be cloud service.](http://tryghost)
+- [Substance.io a semantically rich writing tool, being kinda-developed. Hosted in the cloud.](http://substance.io/#substance) The developers have some [interesting things in github.](https://github.com/substance)
+- [Editorially a tool for collaborative writing. Looks to be hosted in the cloud.](https://editorially.com/)
+- [Markdown editor for scientific writing. -- Not sure if this is still being actively developed. Hosted locally or in cloud.](https://github.com/yoavram/markx)
+- [Medium is one of these, but not like the others. I'm not sure why it is different, it is a tool, but also a lot of content.](http://medium.com)
+- [Quip is a cross-channel (desktop, tablet, phone) writing app. I didn't like it very much.](https://quip.com/)
+- 
 
 
 ## GIT
 a pile of links related to GIT 
 
 [Git concepts simplified.](http://gitolite.com/gcs/index.html) This post is similar to the class post I really liked, [git for computer scientists](http://eagain.net/articles/git-for-computer-scientists/), but it is intended for a broader audience.
+
 
 
 

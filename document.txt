@@ -1,0 +1,19 @@
+Your project is alive!
+
+This is your document.  Click the small white 'Edit' button above to make changes to this file and start writing.  Until then, here's a quick primer on how Penflip works:
+
+## Projects
+
+Right now, you're looking at the project page for your new project.  The project page is the headquarters for you and your collaborators - you can write and edit, invite collaborators, have discussions, browse changes, see project activity, export your project, and more.
+
+## Writing
+
+You'll see 'Edit' buttons across the project.  Clicking any of these buttons will take you into a distraction-free 'writing mode', similar to Google Docs and other writing tools.  Everything is written with [Markdown](http://daringfireball.net/projects/markdown/).  For an explanation on why markdown is awesome for writing, [read this](http://nerdplusart.com/markdown-is-the-future/).
+
+## Versions
+
+Every project has a master version. Whenever you invite somebody to your project, a new version will automatically be created for them, and all of their changes will be made on their own version. When a collaborator is ready to submit their changes into the master version, they'll create a Merge Request.
+
+## Merge Requests
+
+A Merge Request is a group of changes to your project. All merge requests go into the master version. As the project owner, you control the merge requests: you can accept them, ignore them, and comment on them to suggest changes. When you accept a Merge Request, the master version of your project will be updated with those changes.

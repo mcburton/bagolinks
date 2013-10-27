@@ -26,7 +26,6 @@ when dreaming up [pomo.io](http://pomo.io) i was googling around for information
 [RTF/ODF-Scan for Zotero is a lightweight markup format for expressing zotero citations in ascii text. The scanner picks them up from teh document and replaces them with citations.](http://zotero-odf-scan.github.io/zotero-odf-scan/) I think Frank Bennet pointed this to me on twitter I was thinking about implementing this with my [Editorial](http://omz-software.com/editorial/) zotero workflow/plugin.
 
 
-
 ## A pile of machine learning links
 [word2vec does soemthing to compute the distance between words in a corpus of text](https://code.google.com/p/word2vec/) it is being used by [ThisPlusThat.me](http://thisplusthat.me/) to do some cute Thing - trait + trait comparisons.
 

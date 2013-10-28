@@ -37,6 +37,7 @@ I found this more general link about writing in markdown on the penflip help pag
 
 [A programmer's guide to machine learning](http://guidetodatamining.com/)
 
+[Introduction to Pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/) a three part series that has been making the rounds on twitter, reddit, and HN that walks through Pandas. THe author also wrote a post on [pandas for SQL users](http://www.gregreda.com/2013/01/23/translating-sql-to-pandas-part1/)
 
 
 ## Mapping in Python

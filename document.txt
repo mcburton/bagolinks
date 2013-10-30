@@ -63,6 +63,8 @@ Adding a link to [my blog post on topic modeling, *The Joy of Topic Modeling*](h
 
 [Alan Liu just tweeted](https://twitter.com/alanyliu/status/394514893371498496) a link about [Sub-corpus topic modeling](http://www.sciencedirect.com/science/article/pii/S0304422X13000648)
 
+A woman from my topic modeling workshop, [Emily Marshall](http://www.psc.isr.umich.edu/people/profile/1071/Emily_Ann_Marshall) mentioned there is a special issues of [Poetics](http://www.journals.elsevier.com/poetics/)(boo Evilsevier) on topic modeling. I found [some abstracts in a pdf online but I'm not sure when it will be released.](http://www.soc.ucsb.edu/ct/pages/JWM/Papers/Y2013_Topic_Models/TOC%20Poetics%20Special%20Issue%202013%20December.pdf) 
+
 ## Scholarly communication
 
 Check out [Carol Palmer's CV](http://people.lis.illinois.edu/~clpalmer/pubspresB.html) She has done some interesting work on scientific scholarly communication.

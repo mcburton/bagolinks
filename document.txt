@@ -119,3 +119,10 @@ I am facinated by the Indieweb stuff and need to start following it more serious
 [What's open web and why is it important](http://codinginparadise.org/weblog/2008/04/whats-open-web-and-why-is-it-important.html) I found this on [Max Ogden's homepage](http://maxogden.com/)
 
 
+## web archiving
+
+Found this project [browser mirror](https://github.com/mozilla/browsermirror) which serializes the active DOM and sends it to a server so you can sync what you see with someone else. I wonder if it might be possible to save this serialized representation of the dom.
+> Traditional screensharing happens at the pixel level, but I’m going to refer to something I’ll call DOM Screensharing. In this model the current/live state of the DOM is transferred from one browser to another. I’ll call the browser that starts the screensharing is the “source” and the browser that receives the DOM is the “viewer”....In this approach you look at all the elements on the source browser, scrub out any scripts or event handlers, maybe scrub hidden elements (or don’t). Then you serialize this and send it to the viewer. The page is then recreated at a new URL, visually hard to distinguish from the original page, but it’s “dead”. 
+- from [togetherjs as postmodern programming tool](http://www.ianbicking.org/blog/2013/10/togetherjs-a-postmodern-tool.html)
+
+

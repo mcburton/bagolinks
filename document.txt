@@ -20,6 +20,10 @@ when dreaming up [pomo.io](http://pomo.io) i was googling around for information
 
 Blog post by Ian Bicking - [*TogetherJS as a Postmodern Programming Tool*](http://www.ianbicking.org/blog/2013/10/togetherjs-a-postmodern-tool.html) He references the Martinfowler post I linked to above. THis is essentially a marketing post for the mozilla js library [Togetherjs](https://togetherjs.com/). Also some [interesting conversation about post-modern programming on hackernews.](https://news.ycombinator.com/item?id=6647168)
 
+Post-Modering programming seems to be popping up everywhere. Here is a blog post by John Foreman of Mailchimp who just wrote a data science book, [*data science and the technological realization of postmodern thinking*](http://www.john-foreman.com/1/post/2013/10/data-science-and-the-techonological-realization-of-postmodern-thinking.html), I haven't read this yet, but I'm dubious...we'll see.
+
+see also [this thread](https://groups.google.com/forum/#!topic/philosophy-in-a-time-of-software/uM526Nrtckc) from the [philosophy in a time of software list](https://groups.google.com/forum/#!forum/philosophy-in-a-time-of-software)
+
 ## Scholarly Markdown
 [Citations in Scholarly Markdown blog post with a **lot** of good discussion in the comments.](http://blog.martinfenner.org/2013/06/19/citations-in-scholarly-markdown/) That link has the best discussion about citations in markdown I've seen so far. Here is [another post from that same blog "What is Scholarly Markdown"](http://blog.martinfenner.org/2013/06/17/what-is-scholarly-markdown/) Also a [PLOSOne post about scholarly markdown, which I've just found but haven't read.](http://blogs.plos.org/mfenner/2012/12/13/a-call-for-scholarly-markdown/). 
 

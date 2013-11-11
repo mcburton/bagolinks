@@ -106,6 +106,7 @@ a pile of links loosely related to digital writing, the web, and whatever else I
 - [Substance.io a semantically rich writing tool, being kinda-developed. Hosted in the cloud.](http://substance.io/#substance) The developers have some [interesting things in github.](https://github.com/substance)
 - [Editorially a tool for collaborative writing. Looks to be hosted in the cloud.](https://editorially.com/)
 - [Markdown editor for scientific writing. -- Not sure if this is still being actively developed. Hosted locally or in cloud.](https://github.com/yoavram/markx)
+- [Authorea, specifically focused on collaborative scientific writing](https://www.authorea.com/) I think it was Cory Knobel who first pointed me to it. 
 - [Medium is one of these, but not like the others. I'm not sure why it is different, it is a tool, but also a lot of content.](http://medium.com)
 - [Quip is a cross-channel (desktop, tablet, phone) writing app. I didn't like it very much.](https://quip.com/)
 - My favorite writing app at the moment is [Editorial for the iPad](http://omz-software.com/editorial/). It is a writing platform backed with python. I love the idea. I need to figure out how to integrate it with other writing platforms. I like using git as the underlying sharing protocol.

@@ -131,3 +131,9 @@ Found this project [browser mirror](https://github.com/mozilla/browsermirror) wh
 - from [togetherjs as postmodern programming tool](http://www.ianbicking.org/blog/2013/10/togetherjs-a-postmodern-tool.html)
 
 
+## Snowfalls
+
+[A list apart article on "snowfalls"](http://alistapart.com/column/he-aint-snowfalling-hes-my-brother) which includes a few links I need to trace. 
+
+[Google doc filled with "snowfallen" articles](https://docs.google.com/spreadsheet/lv?key=0AnWYxsUNHS4FdGVYMnpkdGdTNTU0RS1SXzktcnZwRWc&usp=sharing) by @bobbiejohnson based on a [post he wrote on Medium.](https://medium.com/inside-matter/66b9060333ad) 
+

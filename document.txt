@@ -56,6 +56,10 @@ Nice introduction to [Principle Component Analysis with pretty pictures](http://
 
 I haven't looked at these, but looks like [a nice collection of videos](http://blog.hartleybrody.com/google-python/) about how to properly python by a guy from Google.
 
+[Dataset](https://dataset.readthedocs.org/en/latest/) looks like a friendly wrapper around [SQL Alchemy]](http://www.sqlalchemy.org/). Reminds me of [Requests](http://docs.python-requests.org/en/latest/) in that it has a friendly API. 
+
+I am seeing a lot of python libraries using [Read the Docs](https://readthedocs.org/) as their main webpage. Cool.
+
 
 ## DH Blog Topic Model Topography project
 [**Kriging** is a method to build an approximation of a function from a set of evaluations of the function at a finite set of points.](http://en.wikipedia.org/wiki/Kriging) I think I can use this technique to build a continuous topography of from the Digital Humanities blogs topic points.

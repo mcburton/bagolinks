@@ -39,6 +39,9 @@ I found this more general link about writing in markdown on the penflip help pag
 
 [Introduction to Pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/) a three part series that has been making the rounds on twitter, reddit, and HN that walks through Pandas. THe author also wrote a post on [pandas for SQL users](http://www.gregreda.com/2013/01/23/translating-sql-to-pandas-part1/)
 
+Blog post on [textBlob](https://github.com/sloria/textblob) a text processing library in python. [This post focuses in on sentiment analysis.](https://www.openshift.com/blogs/day-9-textblob-finding-sentiments-in-text)
+
+[Blog post Gensim author of Jensen reflecting on the Python machine learning library.](http://radimrehurek.com/2013/10/five-years-of-gensim/)
 
 ## Mapping in Python
 [So You'd Like To Make a Map Using Python](http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html). SOme interesitng bits on making a Choropleth and other links to python mapping libraries. interesting alternative to using [d3js.org](http://d3js.org/).
@@ -94,7 +97,7 @@ a pile of links loosely related to digital writing, the web, and whatever else I
 - [Prose.io is a writers frontend to github. Hosted front-end, backed in github.](http://prose.io/)
 - [Ghost is a neo-wordpress blogging platform. Self-hosted or will be cloud service.](http://tryghost)
 - [Substance.io a semantically rich writing tool, being kinda-developed. Hosted in the cloud.](http://substance.io/#substance) The developers have some [interesting things in github.](https://github.com/substance)
-- [Editorially a tool for collaborative writing. Looks to be hosted in the cloud.](https://editorially.com/)
+- [Editorially a tool for collaborative writing. Looks to be hosted in the cloud.](https://editorially.com/) Also have a journal, [STET](http://stet.editorially.com/about/) which provides high quality content. This remind me of [Medium](http://medium.com) in that they do medium AND message.
 - [Markdown editor for scientific writing. -- Not sure if this is still being actively developed. Hosted locally or in cloud.](https://github.com/yoavram/markx)
 - [Medium is one of these, but not like the others. I'm not sure why it is different, it is a tool, but also a lot of content.](http://medium.com)
 - [Quip is a cross-channel (desktop, tablet, phone) writing app. I didn't like it very much.](https://quip.com/)
@@ -114,4 +117,6 @@ I am facinated by the Indieweb stuff and need to start following it more serious
 [Indiewebcamp wiki seems to be the central place where it all happens. ](http://indiewebcamp.com/)
 [What's open web and why is it important](http://codinginparadise.org/weblog/2008/04/whats-open-web-and-why-is-it-important.html) I found this on [Max Ogden's homepage](http://maxogden.com/)
 
+## learning & teaching 
 
+The [software carpentry](http://software-carpentry.org/) project is pretty awesome. It doesn't appear to have much attention at the moment, but I think the model could be really interesting.

@@ -18,6 +18,12 @@ I was dorking around with derrida.js in the chome developer console when I was b
 ## post-modern programming
 when dreaming up [pomo.io](http://pomo.io) i was googling around for information about the post-modern web and post-modern programming. i found [this link with some thoughts/notes on what post modern programming should be.](http://martinfowler.com/bliki/PostModernProgramming.html)
 
+Blog post by Ian Bicking - [*TogetherJS as a Postmodern Programming Tool*](http://www.ianbicking.org/blog/2013/10/togetherjs-a-postmodern-tool.html) He references the Martinfowler post I linked to above. THis is essentially a marketing post for the mozilla js library [Togetherjs](https://togetherjs.com/). Also some [interesting conversation about post-modern programming on hackernews.](https://news.ycombinator.com/item?id=6647168)
+
+Post-Modering programming seems to be popping up everywhere. Here is a blog post by John Foreman of Mailchimp who just wrote a data science book, [*data science and the technological realization of postmodern thinking*](http://www.john-foreman.com/1/post/2013/10/data-science-and-the-techonological-realization-of-postmodern-thinking.html), I haven't read this yet, but I'm dubious...we'll see.
+
+see also [this thread](https://groups.google.com/forum/#!topic/philosophy-in-a-time-of-software/uM526Nrtckc) from the [philosophy in a time of software list](https://groups.google.com/forum/#!forum/philosophy-in-a-time-of-software)
+
 ## Scholarly Markdown
 [Citations in Scholarly Markdown blog post with a **lot** of good discussion in the comments.](http://blog.martinfenner.org/2013/06/19/citations-in-scholarly-markdown/) That link has the best discussion about citations in markdown I've seen so far. Here is [another post from that same blog "What is Scholarly Markdown"](http://blog.martinfenner.org/2013/06/17/what-is-scholarly-markdown/) Also a [PLOSOne post about scholarly markdown, which I've just found but haven't read.](http://blogs.plos.org/mfenner/2012/12/13/a-call-for-scholarly-markdown/). 
 
@@ -43,9 +49,12 @@ Blog post on [textBlob](https://github.com/sloria/textblob) a text processing li
 
 [Blog post Gensim author of Jensen reflecting on the Python machine learning library.](http://radimrehurek.com/2013/10/five-years-of-gensim/)
 
-## Mapping in Python
+Nice introduction to [Principle Component Analysis with pretty pictures](http://georgemdallas.wordpress.com/2013/10/30/principal-component-analysis-4-dummies-eigenvectors-eigenvalues-and-dimension-reduction/). Looks like there are other nice posts on that blog about [data mining and machine learning](http://georgemdallas.wordpress.com/2013/06/11/big-data-data-mining-and-machine-learning-under-the-hood/)
+
+## Pythony STuff
 [So You'd Like To Make a Map Using Python](http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html). SOme interesitng bits on making a Choropleth and other links to python mapping libraries. interesting alternative to using [d3js.org](http://d3js.org/).
 
+I haven't looked at these, but looks like [a nice collection of videos](http://blog.hartleybrody.com/google-python/) about how to properly python by a guy from Google.
 
 
 ## DH Blog Topic Model Topography project
@@ -65,6 +74,8 @@ I dumped [a bunch of links into a subreddit on topic modeling](http://www.reddit
 Adding a link to [my blog post on topic modeling, *The Joy of Topic Modeling*](http://mcburton.net/blog/joy-of-tm/) 
 
 [Alan Liu just tweeted](https://twitter.com/alanyliu/status/394514893371498496) a link about [Sub-corpus topic modeling](http://www.sciencedirect.com/science/article/pii/S0304422X13000648)
+
+A woman from my topic modeling workshop, [Emily Marshall](http://www.psc.isr.umich.edu/people/profile/1071/Emily_Ann_Marshall) mentioned there is a special issues of [Poetics](http://www.journals.elsevier.com/poetics/)(boo Evilsevier) on topic modeling. I found [some abstracts in a pdf online but I'm not sure when it will be released.](http://www.soc.ucsb.edu/ct/pages/JWM/Papers/Y2013_Topic_Models/TOC%20Poetics%20Special%20Issue%202013%20December.pdf) 
 
 ## Scholarly communication
 
@@ -99,6 +110,7 @@ a pile of links loosely related to digital writing, the web, and whatever else I
 - [Substance.io a semantically rich writing tool, being kinda-developed. Hosted in the cloud.](http://substance.io/#substance) The developers have some [interesting things in github.](https://github.com/substance)
 - [Editorially a tool for collaborative writing. Looks to be hosted in the cloud.](https://editorially.com/) Also have a journal, [STET](http://stet.editorially.com/about/) which provides high quality content. This remind me of [Medium](http://medium.com) in that they do medium AND message.
 - [Markdown editor for scientific writing. -- Not sure if this is still being actively developed. Hosted locally or in cloud.](https://github.com/yoavram/markx)
+- [Authorea, specifically focused on collaborative scientific writing](https://www.authorea.com/) I think it was Cory Knobel who first pointed me to it. 
 - [Medium is one of these, but not like the others. I'm not sure why it is different, it is a tool, but also a lot of content.](http://medium.com)
 - [Quip is a cross-channel (desktop, tablet, phone) writing app. I didn't like it very much.](https://quip.com/)
 - My favorite writing app at the moment is [Editorial for the iPad](http://omz-software.com/editorial/). It is a writing platform backed with python. I love the idea. I need to figure out how to integrate it with other writing platforms. I like using git as the underlying sharing protocol.
@@ -120,3 +132,18 @@ I am facinated by the Indieweb stuff and need to start following it more serious
 ## learning & teaching 
 
 The [software carpentry](http://software-carpentry.org/) project is pretty awesome. It doesn't appear to have much attention at the moment, but I think the model could be really interesting.
+
+
+## web archiving
+
+Found this project [browser mirror](https://github.com/mozilla/browsermirror) which serializes the active DOM and sends it to a server so you can sync what you see with someone else. I wonder if it might be possible to save this serialized representation of the dom.
+> Traditional screensharing happens at the pixel level, but I’m going to refer to something I’ll call DOM Screensharing. In this model the current/live state of the DOM is transferred from one browser to another. I’ll call the browser that starts the screensharing is the “source” and the browser that receives the DOM is the “viewer”....In this approach you look at all the elements on the source browser, scrub out any scripts or event handlers, maybe scrub hidden elements (or don’t). Then you serialize this and send it to the viewer. The page is then recreated at a new URL, visually hard to distinguish from the original page, but it’s “dead”. 
+- from [togetherjs as postmodern programming tool](http://www.ianbicking.org/blog/2013/10/togetherjs-a-postmodern-tool.html)
+
+
+## Snowfalls
+
+[A list apart article on "snowfalls"](http://alistapart.com/column/he-aint-snowfalling-hes-my-brother) which includes a few links I need to trace. 
+
+[Google doc filled with "snowfallen" articles](https://docs.google.com/spreadsheet/lv?key=0AnWYxsUNHS4FdGVYMnpkdGdTNTU0RS1SXzktcnZwRWc&usp=sharing) by @bobbiejohnson based on a [post he wrote on Medium.](https://medium.com/inside-matter/66b9060333ad) 
+

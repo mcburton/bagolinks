@@ -151,3 +151,13 @@ Found this project [browser mirror](https://github.com/mozilla/browsermirror) wh
 
 [Google doc filled with "snowfallen" articles](https://docs.google.com/spreadsheet/lv?key=0AnWYxsUNHS4FdGVYMnpkdGdTNTU0RS1SXzktcnZwRWc&usp=sharing) by @bobbiejohnson based on a [post he wrote on Medium.](https://medium.com/inside-matter/66b9060333ad) 
 
+## DevOps
+I had a pile of links about various devops stuff that I haven't read through so I'm dumping them here.
+
+A few links from the [devo.ps](http://devo.ps) blog. ["Ansible Simply Kicks Ass"](http://devo.ps/blog/2013/07/03/ansible-simply-kicks-ass.html) and ["Vagrant, Docker and Ansible. WTF?"](http://devo.ps/blog/2013/09/25/vagrant-docker-and-ansible-wtf.html). 
+
+Here are a couple about just using [Vagrant](http://www.vagrantup.com/) for managing distributed systems. ["Distributed Architecture Faking with Vagrant"](http://philsturgeon.co.uk/blog/2012/12/distributed-architecture-faking-with-vagrant) and here is a github repo for [vagrant-aws: use Vagrant to manage your EC2 and VPC instances](https://github.com/mitchellh/vagrant-aws) 
+
+Two last final links from some random blogs ["Docker vs Chef and Vagrant"](https://phunehehe.net/docker-vs-chef-vagrant/) and ["Scalable and Understandable Provisioning with Ansible and Vagrant"](http://julien.ponge.org/blog/scalable-and-understandable-provisioning-with-ansible-and-vagrant/)
+
+

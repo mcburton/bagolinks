@@ -35,7 +35,7 @@ I found this more general link about writing in markdown on the penflip help pag
 
 
 ## A pile of machine learning links
-[word2vec does soemthing to compute the distance between words in a corpus of text](https://code.google.com/p/word2vec/) it is being used by [ThisPlusThat.me](http://thisplusthat.me/) to do some cute Thing - trait + trait comparisons. [A nice writeup on ThisPlusThat.me by the creator.](http://insightdatascience.com/blog/thisplusthat_a_search_engine_that_lets_you_add_words_as_vectors.html)
+[word2vec does soemthing to compute the distance between words in a corpus of text](https://code.google.com/p/word2vec/) it is being used by [ThisPlusThat.me](http://thisplusthat.me/) to do some cute Thing - trait + trait comparisons. [A nice writeup on ThisPlusThat.me by the creator.](http://insightdatascience.com/blog/thisplusthat_a_search_engine_that_lets_you_add_words_as_vectors.html) THere is also the [github repository](https://github.com/cemoody/wizlang) but I don't, at first glance, understand its structure.
 
 - [Machine Learning in Python TF-IDF Text Extraction Vector space models - Part 1](http://pyevolve.sourceforge.net/wordpress/?p=1589)
 - [Machine Learning in Python TF-IDF Text Extraction Vector space models - Part 2](http://pyevolve.sourceforge.net/wordpress/?p=1747)

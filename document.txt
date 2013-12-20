@@ -35,6 +35,8 @@ I found this more general link about writing in markdown on the penflip help pag
 
 Came across this link on the twitters, a blog post by [@mfenner](https://twitter.com/mfenner) about converting [Markdown to JATS XML](http://blog.martinfenner.org/2013/12/12/from-markdown-to-jats-xml-in-one-step/). I'm interested because I wonder if this the pandoc-jats tool could be used to convert IPython Notebooks into JATS XML for publishing.
 
+Another post, but @mfenner, called ["The Grammar of SCholarly Communication"](http://blog.martinfenner.org/2013/11/17/the-grammar-of-scholarly-communication/) that I should read.
+
 ## A pile of machine learning links
 [word2vec does soemthing to compute the distance between words in a corpus of text](https://code.google.com/p/word2vec/) it is being used by [ThisPlusThat.me](http://thisplusthat.me/) to do some cute Thing - trait + trait comparisons. [A nice writeup on ThisPlusThat.me by the creator.](http://insightdatascience.com/blog/thisplusthat_a_search_engine_that_lets_you_add_words_as_vectors.html) THere is also the [github repository](https://github.com/cemoody/wizlang) but I don't, at first glance, understand its structure.
 

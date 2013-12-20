@@ -33,6 +33,7 @@ see also [this thread](https://groups.google.com/forum/#!topic/philosophy-in-a-t
 
 I found this more general link about writing in markdown on the penflip help page, [*Markdown is the future of writing*](http://nerdplusart.com/markdown-is-the-future/). One thing to consider is the point [ptwobrussel made in the IPython Notebook publishing discussion on hackernews that made me think about why asciidoc may be a better choice than markdown for serious publishing endevors](https://news.ycombinator.com/item?id=6612288)
 
+Came across this link on the twitters, a blog post by [@mfenner](https://twitter.com/mfenner) about converting [Markdown to JATS XML](http://blog.martinfenner.org/2013/12/12/from-markdown-to-jats-xml-in-one-step/). I'm interested because I wonder if this the pandoc-jats tool could be used to convert IPython Notebooks into JATS XML for publishing.
 
 ## A pile of machine learning links
 [word2vec does soemthing to compute the distance between words in a corpus of text](https://code.google.com/p/word2vec/) it is being used by [ThisPlusThat.me](http://thisplusthat.me/) to do some cute Thing - trait + trait comparisons. [A nice writeup on ThisPlusThat.me by the creator.](http://insightdatascience.com/blog/thisplusthat_a_search_engine_that_lets_you_add_words_as_vectors.html) THere is also the [github repository](https://github.com/cemoody/wizlang) but I don't, at first glance, understand its structure.

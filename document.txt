@@ -98,6 +98,8 @@ I need to look at the [CV of Ying Ding at Indiana](http://info.slis.indiana.edu/
 
 [Shape of Design Book is a nice little book on design. I bought the book, but should probably have a link to it here.](http://www.shapeofdesignbook.com/)
 
+Another thing by [Frank Chimero](http://frankchimero.com) that I want to read ["What Screens Want"](http://frankchimero.com/what-screens-want/). I like the design of this essay and want to copy it...I also wonder what an IPython Notebook would look like in this design...
+
 ## Web writing
 a pile of links loosely related to digital writing, the web, and whatever else I feel belongs in here.
 

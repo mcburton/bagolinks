@@ -54,6 +54,8 @@ Blog post on [textBlob](https://github.com/sloria/textblob) a text processing li
 
 Nice introduction to [Principle Component Analysis with pretty pictures](http://georgemdallas.wordpress.com/2013/10/30/principal-component-analysis-4-dummies-eigenvectors-eigenvalues-and-dimension-reduction/). Looks like there are other nice posts on that blog about [data mining and machine learning](http://georgemdallas.wordpress.com/2013/06/11/big-data-data-mining-and-machine-learning-under-the-hood/)
 
+Deep learning with python with [pylearn2](http://deeplearning.net/software/pylearn2/). Still under heavy development.
+
 ## Pythony STuff
 [So You'd Like To Make a Map Using Python](http://sensitivecities.com/so-youd-like-to-make-a-map-using-python-EN.html). SOme interesitng bits on making a Choropleth and other links to python mapping libraries. interesting alternative to using [d3js.org](http://d3js.org/).
 

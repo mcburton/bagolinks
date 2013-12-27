@@ -37,6 +37,8 @@ Came across this link on the twitters, a blog post by [@mfenner](https://twitter
 
 Another post, but @mfenner, called ["The Grammar of SCholarly Communication"](http://blog.martinfenner.org/2013/11/17/the-grammar-of-scholarly-communication/) that I should read.
 
+Link to a workshop by Andrew Goldstone [about digital writing with HTML, markdown & latex](http://andrewgoldstone.com/blog/2013/11/23/emp2/). If I want to do a workshop on this I should check this out.
+
 ## A pile of machine learning links
 [word2vec does soemthing to compute the distance between words in a corpus of text](https://code.google.com/p/word2vec/) it is being used by [ThisPlusThat.me](http://thisplusthat.me/) to do some cute Thing - trait + trait comparisons. [A nice writeup on ThisPlusThat.me by the creator.](http://insightdatascience.com/blog/thisplusthat_a_search_engine_that_lets_you_add_words_as_vectors.html) THere is also the [github repository](https://github.com/cemoody/wizlang) but I don't, at first glance, understand its structure.
 
@@ -85,6 +87,8 @@ Adding a link to [my blog post on topic modeling, *The Joy of Topic Modeling*](h
 [Alan Liu just tweeted](https://twitter.com/alanyliu/status/394514893371498496) a link about [Sub-corpus topic modeling](http://www.sciencedirect.com/science/article/pii/S0304422X13000648)
 
 A woman from my topic modeling workshop, [Emily Marshall](http://www.psc.isr.umich.edu/people/profile/1071/Emily_Ann_Marshall) mentioned there is a special issues of [Poetics](http://www.journals.elsevier.com/poetics/)(boo Evilsevier) on topic modeling. I found [some abstracts in a pdf online but I'm not sure when it will be released.](http://www.soc.ucsb.edu/ct/pages/JWM/Papers/Y2013_Topic_Models/TOC%20Poetics%20Special%20Issue%202013%20December.pdf) 
+
+[Alan Liu's eng236 class discussion on topic modeling](http://eng236introdh2013fstudentwork.pbworks.com/w/page/70465717/Questions%20about%20topic%20modeling)
 
 ## Scholarly communication
 
@@ -151,6 +155,7 @@ Found this project [browser mirror](https://github.com/mozilla/browsermirror) wh
 > Traditional screensharing happens at the pixel level, but I’m going to refer to something I’ll call DOM Screensharing. In this model the current/live state of the DOM is transferred from one browser to another. I’ll call the browser that starts the screensharing is the “source” and the browser that receives the DOM is the “viewer”....In this approach you look at all the elements on the source browser, scrub out any scripts or event handlers, maybe scrub hidden elements (or don’t). Then you serialize this and send it to the viewer. The page is then recreated at a new URL, visually hard to distinguish from the original page, but it’s “dead”. 
 - from [togetherjs as postmodern programming tool](http://www.ianbicking.org/blog/2013/10/togetherjs-a-postmodern-tool.html)
 
+Article by [Jacob Harris about digital preservation.](http://source.opennews.org/en-US/learning/and-remember-ones-posterity/). Specifically he is addressing some of the technical challenges Archiving web applications. a couple interesting links in here I should follow. Also has a funny quip about the difficulty parsing digital archivist's jargon. [Matt Waite wrote an article, linked from Jacob's](http://source.opennews.org/en-US/learning/kill-all-your-darlings/) about letting applications die.
 
 ## Snowfalls
 
@@ -167,4 +172,8 @@ Here are a couple about just using [Vagrant](http://www.vagrantup.com/) for mana
 
 Two last final links from some random blogs ["Docker vs Chef and Vagrant"](https://phunehehe.net/docker-vs-chef-vagrant/) and ["Scalable and Understandable Provisioning with Ansible and Vagrant"](http://julien.ponge.org/blog/scalable-and-understandable-provisioning-with-ansible-and-vagrant/)
 
+## Research
 
+A [blog post](https://likeinamirror.wordpress.com/2013/12/01/satoshi-nakamoto-is-probably-nick-szabo/) and [hacker news discussion](https://news.ycombinator.com/item?id=6828169) that uses text analysis to try and determine who is Satoshi Nakamoto. What I think is interesting is the rhetorical game being played. The author uses data and statistical analysis to make a claim about Satoshi's identity. The subsequent hacker news discussion unpacks the claim and evidence provided. 
+
+[List of digital humanities and new media friendly journals](https://github.com/denten/dhnotes/wiki/journals). Compiled by Dennis on github.

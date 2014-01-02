@@ -161,6 +161,10 @@ Found this project [browser mirror](https://github.com/mozilla/browsermirror) wh
 
 Article by [Jacob Harris about digital preservation.](http://source.opennews.org/en-US/learning/and-remember-ones-posterity/). Specifically he is addressing some of the technical challenges Archiving web applications. a couple interesting links in here I should follow. Also has a funny quip about the difficulty parsing digital archivist's jargon. [Matt Waite wrote an article, linked from Jacob's](http://source.opennews.org/en-US/learning/kill-all-your-darlings/) about letting applications die.
 
+### Code archiving
+
+Project called ["active papers"](https://bitbucket.org/khinsen/active_papers_py/wiki/Home) which reminds me of the IPython notebook but more focused on a rich scholarly product that inludes the data, workflow, and code to promote reproducable research. 
+
 ## Snowfalls
 
 [A list apart article on "snowfalls"](http://alistapart.com/column/he-aint-snowfalling-hes-my-brother) which includes a few links I need to trace. 

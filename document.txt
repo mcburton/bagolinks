@@ -100,6 +100,8 @@ I need to look at the [CV of Ying Ding at Indiana](http://info.slis.indiana.edu/
 
 Blog post by Alex Fink I found on HASTAC, but was cross posted on his personal blog, titled [Github for academics, next steps](http://kris.shaffermusic.com/2013/09/publishing-with-github-pages/) also inluded some additional interesting links to other posts on Github for academics inluding [this promising one by Kris Shaffer about publishing with Github](http://kris.shaffermusic.com/2013/09/publishing-with-github-pages/) 
 
+Open Source Scholarship, a term I have been seeing around and found most recently in [this chapter in Hybrid Pedagogy](http://www.hybridpedagogy.com/Journal/files/Open_Source_Scholarship.html) and I think this connects with my idea of web-centric scholarship, but OSScholarship focuses on the technical apparatus of copyright, whereas WCScholarship focuses on the technical apparatus of the web. Obviously they are deeply intertwined.
+
 ## Design
 
 [Butterick's Practical Typography is a "web book" and crash course on typography for the web or in general.](http://practicaltypography.com/)

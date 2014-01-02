@@ -148,6 +148,7 @@ I am facinated by the Indieweb stuff and need to start following it more serious
 
 The [software carpentry](http://software-carpentry.org/) project is pretty awesome. It doesn't appear to have much attention at the moment, but I think the model could be really interesting.
 
+Tutorial on [python programming for the Humanities](http://fbkarsdorp.github.io/python-course/) built on IPython Notebooks.
 
 ## web archiving
 

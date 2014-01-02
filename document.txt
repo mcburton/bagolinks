@@ -98,6 +98,8 @@ I need to look at the [CV of Ying Ding at Indiana](http://info.slis.indiana.edu/
 
 [A very long post discussing the affordances of twitter as a medium for communication](http://www.danielallington.net/2013/08/twitter-conversations-reply-retweet/#sthash.rl8sQ4qa.dpbs), I think this is applicable to conversations around scholarly communication.
 
+Blog post by Alex Fink I found on HASTAC, but was cross posted on his personal blog, titled [Github for academics, next steps](http://kris.shaffermusic.com/2013/09/publishing-with-github-pages/) also inluded some additional interesting links to other posts on Github for academics inluding [this promising one by Kris Shaffer about publishing with Github](http://kris.shaffermusic.com/2013/09/publishing-with-github-pages/) 
+
 ## Design
 
 [Butterick's Practical Typography is a "web book" and crash course on typography for the web or in general.](http://practicaltypography.com/)
@@ -148,7 +150,6 @@ I am facinated by the Indieweb stuff and need to start following it more serious
 
 The [software carpentry](http://software-carpentry.org/) project is pretty awesome. It doesn't appear to have much attention at the moment, but I think the model could be really interesting.
 
-Tutorial on [python programming for the Humanities](http://fbkarsdorp.github.io/python-course/) built on IPython Notebooks.
 
 ## web archiving
 

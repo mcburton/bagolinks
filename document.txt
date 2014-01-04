@@ -3,13 +3,14 @@
 
 because I don't really like bookmarks or, I've recently decided, I don't like bookmarking services linke pinboard, I'm going to use this to save links. Why this, I like the unstructuredness of a document.
 
-## IPython Notebooks & Publishing HN discussion
+## IPython Notebooks 
 [HN thread on first chapter of Mining the Social Web as IPython Notebook](https://news.ycombinator.com/item?id=6611848)  
 some links Mathias put in the thread comments  
 - [how to use nbconvert](http://nbviewer.ipython.org/urls/raw.github.com/Carreau/posts/master/06-NBconvert-Doc-Draft.ipynb)  
 - [Github Issues thread about adding JATS support to nbconvert](https://github.com/ipython/ipython/issues/4119)  
 - [IPython Notebooks & Github repository for Mathias's book *IPython In Depth*](https://github.com/ipython/ipython-in-depth) 
 
+[Better typography for IPython Notebooks](http://slendrmeans.wordpress.com/2012/12/05/better-typography-for-ipython-notebooks/). One thing I have wanted to try is re-style an IPython notebook to look more like [Frank Chimero's essas, what screens want](http://frankchimero.com/what-screens-want/)
 
 ## autosaving changes from Chrome Developer Console
 I was dorking around with derrida.js in the chome developer console when I was building [pomo.io](http://pomo.io) and I notice Chrome has a menu item to "save" changes to javascript (and HTML/CSS I presume). While it (obviously) doesn't appear you can save back to remote locations (without some server shit in place), you can save local files. I'll have to play with this more. [this blog post "Auto-saving CSS And JavaScript Changes Locally From The Chrome Developer Tools" has a video and more information.](http://addyosmani.com/blog/autosave-changes-chrome-dev-tools/)

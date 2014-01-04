@@ -69,6 +69,10 @@ I am seeing a lot of python libraries using [Read the Docs](https://readthedocs.
 
 Found a nice post on Medium about quick and easy [parrallelism in python with the multiprocessing library](https://medium.com/p/40e9b2b36148), then there was a great [discussion on the /r/python subreddit about using the concurrent.futures library instead](http://www.reddit.com/r/Python/comments/1tyzw3/parallelism_in_one_line/). parallel processing in python doesn't appear to be as hard as I thought. 
 
+[Elephant](hhttps://github.com/kennethreitz/elephant/tree/master) is a S3 backed key-value store with ElasticSearch indexing. Built by the guy who did the [Requests library](http://docs.python-requests.org/en/latest/), [Kenneth Reitz](https://github.com/kennethreitz). Unfortunatley, it appears abandoned, but the idea is insteresting.
+
+
+
 ## DH Blog Topic Model Topography project
 [**Kriging** is a method to build an approximation of a function from a set of evaluations of the function at a finite set of points.](http://en.wikipedia.org/wiki/Kriging) I think I can use this technique to build a continuous topography of from the Digital Humanities blogs topic points.
 

@@ -102,6 +102,8 @@ Blog post by Alex Fink I found on HASTAC, but was cross posted on his personal b
 
 Open Source Scholarship, a term I have been seeing around and found most recently in [this chapter in Hybrid Pedagogy](http://www.hybridpedagogy.com/Journal/files/Open_Source_Scholarship.html) and I think this connects with my idea of web-centric scholarship, but OSScholarship focuses on the technical apparatus of copyright, whereas WCScholarship focuses on the technical apparatus of the web. Obviously they are deeply intertwined.
 
+[Alan Liu pointed me](https://twitter.com/alanyliu/status/419299302763032577) to [Voice of the Shulltle](http://vos.ucsb.edu/) an amazing project and a beautiful example of "web-centric scholarship/scholarly communication." I need to develop this concept more, I think this project could help as an illustrative example It is a **massive** collection of links & digital collection he and others have been compiling for 20 years.
+
 ## Design
 
 [Butterick's Practical Typography is a "web book" and crash course on typography for the web or in general.](http://practicaltypography.com/)

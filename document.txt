@@ -148,6 +148,16 @@ a pile of links related to GIT
 
 [Git concepts simplified.](http://gitolite.com/gcs/index.html) This post is similar to the class post I really liked, [git for computer scientists](http://eagain.net/articles/git-for-computer-scientists/), but it is intended for a broader audience.
 
+A slightly old, but still nice set of slides on [using Git as a NoSQL data store](https://speakerdeck.com/bkeepers/git-the-nosql-database), also the [HN discussion includes some good links](https://news.ycombinator.com/item?id=7015746) like [this blog post on gitshelve.py](http://newartisans.com/2008/05/using-git-as-a-versioned-data-store-in-python) which is part of the [git-issues project](https://github.com/jwiegley/git-issues/)
+
+Some Python Git integration projects:
+- [Gittle: Pythonic Git for Humans](https://github.com/FriendCode/gittle)
+- [Dulwich, a pure-python git](http://www.samba.org/~jelmer/dulwich/)
+- [GitPython, a port of Grit-the ruby python library](https://gitorious.org/git-python)
+- [pygit2, python bindings for libgit2](https://github.com/libgit2/pygit2)
+
+There is also the Github maintained wiki, [Gollum](https://github.com/gollum/gollum) which I might actually migrate this bagolinks page to since I'm outgrowing this page.
+
 ## #Indieweb
 I am facinated by the Indieweb stuff and need to start following it more seriously.
 

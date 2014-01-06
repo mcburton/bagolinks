@@ -2,3 +2,5 @@
 
 chapter1.txt
 About.md
+Home.md
+document.md

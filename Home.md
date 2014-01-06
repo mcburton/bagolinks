@@ -1,1 +1,1 @@
-Welcome to the bagolinks wiki!
+Bag of Links.

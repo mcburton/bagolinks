@@ -9,3 +9,6 @@ The problem with penflip is the site was designed for writing. Penflip has two k
 Gollum has [a very lightweight directory structure and syntax](https://github.com/gollum/gollum/wiki) and as such can be easily edited using plain text editors or (and here is the interesting part) maybe even fancy git-powered markdown writing tools...like Penflip!
 
 Ok, I had to delete the bagolinks document project and create a new book project. Now I'm going to try and push this repository up... we'll see what happens...
+
+So I had to delete my old penflip document project, then create a new book project, and then merge the new book repository into the local repository on my laptop. It wasn't pretty, but it worked. Now I have a Gollum wiki running on my local machine living in the Penflip cloud. The next major step is to create a github project and push this repository to the github cloud and then into the project wiki. 
+

@@ -21,3 +21,18 @@ So now I have this project living in four different repositories:
 The first three are immenently compatable as they are just plain old git repositories filled with markdown files. The forth, the wiki repository, is a different beast entirely. Where the Penflip and Github repositories treat the markdown files with the same semantics, the wiki has some additional "wiki syntax" that would not be rendered correctly in other places (although github now supports linking to local markdown files, I wonder if penflip does the same....)
 
 Considering the fact I can edit markdown files directly in Github and this project is essentially a documentation project, I don't think it makes sense to manage a Gollum wiki above and beyond the markdown files. What I DO need to do however is come up with an organizational strategy for the markdown files so I can better keep track of my big bag of links.
+
+So this has been an interesting exercise in thinking-doing. 
+- I started out with a markdown document that was becoming unwieldy
+- I got the Gollum wiki software installed on my local machine and brewed up a wiki in the same repository as my local branch of my bagolinks project on Penflip. 
+- I deleted my document project and started a book project on Penflip. 
+- I pushed the my local repository back up into the new Penflip repository
+- I created a GitHub project for my bagolinks and pushed the penflip repository up there
+- Push the repository up into the Github project's wiki (after some mucking around with files
+- Finally I realized, maybe a wiki isn't what I want or need, but instead I just need to be a bit smart about organizing the links.
+
+What is funny about this whole process is I've avoided the actual hard problem of breaking up the document filled with links into separate markdown files. I suppose I'll have to do it eventually, and when I do I might find the wiki actually isn't that bad. 
+
+What is curious is how I've gone about writing this particular file. I've edited it on Penflip, on Github, and I think on my local machine as well. I actually kind of like the full-screen editing mode on Github, but I fear it is tenuous as it doesn't save your work. I really wish the online, web-based markdown editors had an option to save an index (save but not commit)...without this feature I don't think I can ever "commit" to writing in these web-based environments for any length of time.
+
+Ok, I've written enough. This barely resembles an About page at this point, I'll probably remove all of this once I figure out more about how I want to organize this repository.

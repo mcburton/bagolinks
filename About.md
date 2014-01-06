@@ -12,3 +12,12 @@ Ok, I had to delete the bagolinks document project and create a new book project
 
 So I had to delete my old penflip document project, then create a new book project, and then merge the new book repository into the local repository on my laptop. It wasn't pretty, but it worked. Now I have a Gollum wiki running on my local machine living in the Penflip cloud. The next major step is to create a github project and push this repository to the github cloud and then into the project wiki. 
 
+So now I have this project living in four different repositories:
+- On my local machine
+- As a Penflip book project
+- As a GitHub project
+- As the aformentioned Github project's wiki
+
+The first three are immenently compatable as they are just plain old git repositories filled with markdown files. The forth, the wiki repository, is a different beast entirely. Where the Penflip and Github repositories treat the markdown files with the same semantics, the wiki has some additional "wiki syntax" that would not be rendered correctly in other places (although github now supports linking to local markdown files, I wonder if penflip does the same....)
+
+Considering the fact I can edit markdown files directly in Github and this project is essentially a documentation project, I don't think it makes sense to manage a Gollum wiki above and beyond the markdown files. What I DO need to do however is come up with an organizational strategy for the markdown files so I can better keep track of my big bag of links.
